@@ -1,7 +1,7 @@
 ﻿using Xunit;
 using ChessExample;
 
-namespace CheckerBoardPosition.Test;
+namespace Test;
 
 public class CheckerBoardPositionTests
 {
