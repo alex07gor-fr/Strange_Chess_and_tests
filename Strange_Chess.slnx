@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Just_Chess/Just_Chess.csproj" Id="e6254dff-b088-433c-b0b2-1c859bbbca94" />
+  <Project Path="Strange_Chess_v0.1/Strange_Chess_v0.1.csproj" />
+  <Project Path="TestProject_for_Chess/TestProject_for_Chess.csproj" Id="d9e1f7ab-2c0c-4695-82d7-803251dd6b7b" />
+</Solution>
